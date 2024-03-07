@@ -33,6 +33,7 @@ include "koneksi.php";
               <h2>SMK NEGERI 5 KOTA BEKASI</h2>
               <p><i>SMK Bisa, SMK Hebat, SMK Pasti Bisa Pasti Hebat</i></p>
           </div>
+          <p><marquee>REKAYASA PERANGKAT LUNAK</marquee></p>
       </header>
   
       <nav>
